@@ -1,0 +1,14 @@
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: pru_data_transfer_SPAD_Direct_pru0.c
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: /usr/share/ti/cgt-pru/include/stdint.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: /usr/lib/ti/pru-software-support-package/include/am335x/pru_cfg.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: /usr/lib/ti/pru-software-support-package/include/am335x/pru_intc.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: /usr/lib/ti/pru-software-support-package/include/am335x/pru_ctrl.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: ../../mylibs/libpru/pru_gpi_ct.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: ../../mylibs/libpru/pru_gpo_ct.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: ../../mylibs/libpru/pru_time_ct.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: ../pru_1/arm_pru_common.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: resource_table_0.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: /usr/share/ti/cgt-pru/include/stddef.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: /usr/lib/ti/pru-software-support-package/include/rsc_types.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: /usr/lib/ti/pru-software-support-package/include/pru_types.h
+Debug/pru_data_transfer_SPAD_Direct_pru0.object: /usr/lib/ti/pru-software-support-package/include/pru_virtio_ids.h
